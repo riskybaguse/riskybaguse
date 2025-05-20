@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Halo, Gue Bagus
 
-<!--
-**riskybaguse/riskybaguse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gue seorang mahasiswa IT yang tertarik pada web development.  
+Sedang aktif mengembangkan proyek dengan Laravel, Java, dan Python.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Gue
+- 🎓 Mahasiswa Informatika
+- 🧠 Fokus saat ini: Web & Game Development 
+- 💻 Bahasa yang gue sering dipakai: PHP, Python, Java, Golang
+- 📚 Sedang belajar Laravel 12
+- ⚙️ Tools: VS Code, GitHub, Laragon, Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistik GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riskybaguse&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskybaguse&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riskybaguse&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📫 Kontak
+- ✉️ Email: riskybaguse474@gmail.com
+- 🌐 Website/Portofolio: (_blom-ada-bre_)
+
+---
+
+> "Belajar bukan soal siapa cepat, tapi siapa yang konsisten."
+
