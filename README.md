@@ -6,7 +6,7 @@ Sedang aktif mengembangkan proyek dengan Laravel, Java, dan Python.
 ## 🚀 Tentang Gue
 - 🎓 Mahasiswa Informatika
 - 🧠 Fokus saat ini: Web & Game Development 
-- 💻 Bahasa yang gue sering dipakai: PHP, Python, Java, Golang
+- 💻 Bahasa yang gue sering pakai: PHP, Python, Java, Golang
 - 📚 Sedang belajar Laravel 12 dan Golang
 - ⚙️ Tools: VS Code, GitHub, Laragon, Cisco Packet Tracer
 
