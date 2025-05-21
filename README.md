@@ -8,7 +8,7 @@ Messin’ around with Laravel, Java, and Python lately.
 - 🧠 Vibin' with Web & Game Dev these days
 - 💻 Languages I mess with: PHP, Python, Java, Golang
 - 📚 Currently diving into Laravel 12 & some Golang stuff
-- ⚙️ Favorite tools: VS Code, GitHub, Laragon, Cisco Packet Tracer
+- ⚙️ Tools: Niyyah (نيَّةٌ) & Tawakal (توكل) 🤲
 
 ## 📊 GitHub Vibes
 
