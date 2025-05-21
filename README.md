@@ -1,26 +1,25 @@
-# 👋 Halo, Gue Bagus
+# 👋 Yo, I'm Bagus
 
-Gue seorang mahasiswa IT yang tertarik pada web development.  
-Sedang aktif mengembangkan proyek dengan Laravel, Java, dan Python.
+Just a regular IT student tryna code cool stuff.  
+Messin’ around with Laravel, Java, and Python lately.
 
-## 🚀 Tentang Gue
-- 🎓 Mahasiswa Informatika
-- 🧠 Fokus saat ini: Web & Game Development 
-- 💻 Bahasa yang gue sering pakai: PHP, Python, Java, Golang
-- 📚 Sedang belajar Laravel 12 dan Golang
-- ⚙️ Tools: VS Code, GitHub, Laragon, Cisco Packet Tracer
+## 🚀 A Lil' Bit About Me
+- 🎓 Still grinding that Informatics degree
+- 🧠 Vibin' with Web & Game Dev these days
+- 💻 Languages I mess with: PHP, Python, Java, Golang
+- 📚 Currently diving into Laravel 12 & some Golang stuff
+- ⚙️ Favorite tools: VS Code, GitHub, Laragon, Cisco Packet Tracer
 
-## 📊 Statistik GitHub
+## 📊 GitHub Vibes
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riskybaguse&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskybaguse&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riskybaguse&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📫 Kontak
+## 📫 Hit Me Up
 - ✉️ Email: riskybaguse474@gmail.com
-- 🌐 Website/Portofolio: (_blom-ada-bre_)
+- 🌐 Portfolio/Website: (_ain’t got one... yet_ 😅)
 
 ---
 
-> "Belajar bukan soal siapa cepat, tapi siapa yang konsisten."
-
+> "It ain’t about being the fastest, it’s about showing up and grinding every day."
