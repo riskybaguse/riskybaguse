@@ -17,7 +17,7 @@ Messin’ around with Laravel, Java, and Python lately.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=riskybaguse&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Hit Me Up
-- ✉️ Email: riskybaguse474@gmail.com
+- ✉️ Email: gilbertbaguse474@gmail.com
 - 🌐 Portfolio/Website: (_ain’t got one... yet_ 😅)
 
 ---
